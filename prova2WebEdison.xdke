@@ -1,0 +1,74 @@
+{
+  "project": {
+    "projectSettingsVersion": "2.0.0",
+    "initialAutoPluginCount": 0,
+    "currentBuildConfiguration": null,
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "README.md": {
+        "previousModTime": 1445527143000,
+        "modified": 1445527143000,
+        "seen": true,
+        "name": "README.md"
+      },
+      "icon.png": {
+        "previousModTime": 1445527143000,
+        "modified": 1445527143000,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "lightsensor.html": {
+        "previousModTime": 1445527143000,
+        "modified": 1445527143000,
+        "seen": true,
+        "name": "lightsensor.html"
+      },
+      "main.js": {
+        "previousModTime": 1445602173000,
+        "modified": 1445602173000,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1445527143000,
+        "modified": 1445527143000,
+        "seen": true,
+        "name": "package.json"
+      },
+      "prova2WebEdison.xdk": {
+        "previousModTime": 1445527144000,
+        "modified": 1445527144000,
+        "seen": true,
+        "name": "prova2WebEdison.xdk"
+      },
+      "prova2WebEdison.xdke": {
+        "previousModTime": 1445602811000,
+        "modified": 1445602811000,
+        "seen": true,
+        "name": "prova2WebEdison.xdke"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1445527144000,
+        "modified": 1445527144000,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      },
+      "user/user.js": {
+        "previousModTime": 1445532091000,
+        "modified": 1445532091000,
+        "seen": true,
+        "name": "user/user.js"
+      },
+      "routes/user.js": {
+        "previousModTime": 1445532308000,
+        "modified": 1445532308000,
+        "seen": true,
+        "name": "routes/user.js"
+      }
+    },
+    "boardFileStatus": {}
+  }
+}
